@@ -11,7 +11,9 @@ getRecipe.py  |Get the recipe of chosen recipe IDS.|
 showResults.py|Combine the generated images and ground truth images together.<br>Combine two images into one.|
 getImage.py   |Copy images from Recipe1M to one directory. |
 countCategory.py|Count the number of recipes in each category. |
-getCatRecImg.py|Get the recipe and image ID of each categoty.|
+getCatRecImg.py|Get the recipe and image ID of selected categoties.|
+selectCategory.py|select categories to form the new dataset.|
+
 
 
 
